@@ -1,2 +1,2 @@
-# License
-You can use all of this code freely
+# Read Me
+You can use all this code freely
