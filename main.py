@@ -4,10 +4,9 @@ T_ZERO = "ZERO"
 T_ONE = "ONE"
 
 tokens = []
-current_character = 0
 
 def apply_tokens(string):
-    global current_character
+    current_character = 0
 
     for char in string:
         if char == "0":
